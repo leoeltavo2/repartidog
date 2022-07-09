@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256793140583",
+    "project_id": "basedatos-d5816",
+    "storage_bucket": "basedatos-d5816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256793140583:android:96050e9ad9477a8c4f63c2",
+        "android_client_info": {
+          "package_name": "com.comida.repartidog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256793140583-r0socmj1o188cbbqu1chai1a33h1b10d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvQMdpCtva9ia52g1TRELUbX0u7SIJGAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256793140583-r0socmj1o188cbbqu1chai1a33h1b10d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
